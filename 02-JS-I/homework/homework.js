@@ -1,7 +1,7 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
-const nuevaString = null;
+const nuevaString = 'Holaa';
 
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
@@ -57,7 +57,7 @@ function divide(x, y) {
 }
 
 function sonIguales(x, y) {
-  // Devuelve "true" si "x" e "y" son iguales
+  // Devuelve "true" si "x" e "y" son igualesf
   // De lo contrario, devuelve "false"
   // Tu código:
   
