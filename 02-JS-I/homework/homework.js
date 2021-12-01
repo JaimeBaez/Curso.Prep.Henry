@@ -233,8 +233,10 @@ function esVocal(letra){
   //Escribe tu código aquí
   if(letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u"){
     return "Es vocal"
+  }else if(letra.lenght !== 1){
+    return "Dato incorrecto"
   }
-  return "Dato incorrectogit"
+  return "Dato incorrecto"
 }
 
 
